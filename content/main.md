@@ -5,7 +5,7 @@ hero:
     link: '/#portofolio'
     text: My work
 <<<<<<< HEAD
-  heading: "I'm Olga Verciuc, and I create"
+  heading: "I''m Olga Verciuc, and I create"
   image: /img/hero.jpeg
   secondButton:
     icon: whatsapp
