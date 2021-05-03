@@ -9,6 +9,7 @@
         "export": "npm run build && next export"
     },
     "dependencies": {
+        "babel": "^6.23.0",
         "frontmatter-markdown-loader": "3.6.2",
         "next": "10.2.0",
         "react": "17.0.2",
