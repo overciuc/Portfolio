@@ -6,9 +6,6 @@ hero:
     text: My work
 <<<<<<< HEAD
   heading: "I'm Olga Verciuc, and I create"
-=======
-  heading: 'I'm Olga Verciuc, and I create'
->>>>>>> bdb3ae08ad7f243421a0d6fbbec658cae7853f6f
   image: /img/hero.jpeg
   secondButton:
     icon: whatsapp
