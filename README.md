@@ -2,4 +2,4 @@
 
 ## Portfolio template, made using Netlify CMS
 
-## [OV]
+OV
