@@ -28,9 +28,7 @@ about:
   heading: Who am I?
   image: /img/about.jpeg
   text: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus
-    mi, sit amet consequat leo. Integer non dolor non elit sodales consequat.
-    Integer tempor sollicitudin massa, vel sollicitudin ante dictum eu.
+    I am a busy mom, food-blogger, cook and in the ner future a Junior Web Developer. I love being active, hiking, cycling, skiing or just going for strolls in the neighborhood.
 features:
   - icon: monitor-screenshot
     text: >
