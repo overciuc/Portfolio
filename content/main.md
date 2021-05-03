@@ -32,18 +32,15 @@ about:
 features:
   - icon: monitor-screenshot
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus
-      mi.
+      I create interactive and user friendly deisgns.
     title: UI/UX
   - icon: draw
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus
-      mi.
+      Create beautiful, modern and unique logos.
     title: Logo Design
   - icon: xml
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus
-      mi.
+      Junior Web Developer
     title: Web Development
 portfolio:
   projects:
